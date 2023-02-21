@@ -1,4 +1,4 @@
-package fundamentosJava.exercicios;
+package fundamentosJava.exercicios.programa;
 
 public class ProgramaDois {
     // O java é reganizado em setença de código e o mesmo termina com o (;)

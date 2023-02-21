@@ -1,4 +1,4 @@
-package fundamentosJava.exercicios;
+package fundamentosJava.exercicios.programa;
 
 public class ProgramaUm {
     public static void main(String[] args) {
